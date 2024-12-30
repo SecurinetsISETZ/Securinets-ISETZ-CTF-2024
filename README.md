@@ -7,12 +7,12 @@ This exciting event brought together cybersecurity enthusiasts from various back
 ## 📋 Overview
 - **Event Name:** Securinets ISETZ CTF 2024  
 - **Categories:**  
-  - 🌐 [Web](./web)  
-  - 🔐 [Cryptography](./cryptography)
-  - 🔎 [OSINT](osint)
-  - 🧩 [Reverse Engineering](./reverse)
-  - 🛠️ [PWN](./pwn)
-  - 🕵️‍♂️ [Forensics](./forensics)
+  - 🌐 [Web](./Web)  
+  - 🔐 [Cryptography](./Cryptography)
+  - 🔎 [OSINT](./OSINT)
+  - 🧩 [Reverse Engineering](./Reverse)
+  - 🛠️ [PWN](./PWN)
+  - 🕵️‍♂️ [Forensics](./Forensics)
 - **Total Challenges:** 64  
 - **Participants:** 170 players in 89 teams 👥  
 
