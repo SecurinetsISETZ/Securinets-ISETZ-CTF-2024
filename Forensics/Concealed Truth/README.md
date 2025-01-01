@@ -2,7 +2,11 @@
 
 ## Description
 Something feels off about this file, as if it’s holding back a secret.  
-Can you bring its hidden contents to light ?
+Can you bring its hidden contents to light ? <br><br><br>
+
+<div align="center">
+  <img src="What_the_hell.jpg" alt="Task Image">
+</div><br><br>
 
 ---
 
@@ -15,7 +19,10 @@ The provided file is an image that looks normal at first glance. However, based 
 Steghide is a common tool used for embedding data into files. To extract hidden content, we use StegSeek, a tool designed to brute-force passwords for Steghide-embedded files.
 
 Run the following command:<br><br>
-![alt stegseek What_the_hell.jpg](Stegseek.png)
+<div align="center">
+  <img src="Stegseek.png" alt="stegseek What_the_hell.jpg">
+</div><br><br>
+
 
 Great! we got data.txt file : <br>
 ```VTJWamRYSnBibVYwYzN0VGRETm5hREZrWlY5WVgwSkFjMlUyTkY5UU1IY3pjaUY5```
