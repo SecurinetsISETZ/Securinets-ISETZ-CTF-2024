@@ -15,3 +15,14 @@ The provided file is an image that looks normal at first glance. However, based 
 Steghide is a common tool used for embedding data into files. To extract hidden content, we use StegSeek, a tool designed to brute-force passwords for Steghide-embedded files.
 
 Run the following command:
+![alt stegseek What_the_hell.jpg](./Stegseek.png)
+
+Great! we got data.txt file : 
+`VTJWamRYSnBibVYwYzN0VGRETm5hREZrWlY5WVgwSkFjMlUyTkY5UU1IY3pjaUY5`
+
+Now we just need to decode that :
+`echo "VTJWamRYSnBibVYwYzN0VGRETm5hREZrWlY5WVgwSkFjMlUyTkY5UU1IY3pjaUY5" | base64 -d | base64 -d`
+
+Finally we got the flag :
+`Securinets{St3gh1de_X_B@se64_P0w3r!}`
+
