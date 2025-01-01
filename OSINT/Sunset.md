@@ -13,4 +13,4 @@ In this challenge, participants are required to analyze the photo’s metadata (
 
 ![found flag using AperiSolve](https://miro.medium.com/v2/resize:fit:640/format:webp/1*kTT3VYvoFuir-D7AzKGHgg.png)
 
-Flag: **Securinets{stunning_isn’t_it?}**.
+Flag: **Securinets{stunning_isn’t_it?}**
