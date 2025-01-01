@@ -20,14 +20,12 @@ A spectrogram visually represents the frequencies in an audio file. To investiga
 
 1. Open the `.wav` file in Audacity.
 2. Switch to the spectrogram view:
-   - Click the arrow next to the track name and select **Spectrogram**.
+   - Click the arrow next to the track name and select **Spectrogram**.<br><br>
+<div align="center">
+  <img src="gaaaaaabes.png" alt="Spectogramme">
+</div><br><br>
+3. Finally you got the flag : 
+```Securinets{Ch9@wl3k_f3l_f@z@?}```
 
 
----
-
-### Step 3: Interpret the Spectrogram
-Examine the spectrogram closely. Hidden messages often appear as patterns, text, or symbols embedded within the frequency spectrum.
-
-**Example Output:**
-In this task, the spectrogram reveals the following message:
 
