@@ -4,9 +4,9 @@
 
 While working on a university project, I came across an image of a car that caught my attention. It wasn’t just any photo — it’s part of a larger story, a video that shows the car’s journey to the port. I remember seeing the full video on a random website.
 
-However, I can’t quite recall the exact page it was on, but I know it’s there, hidden somewhere within the labyrinth of the web. Can you track it down and identify the article linked to this image? <br> <center>
+However, I can’t quite recall the exact page it was on, but I know it’s there, hidden somewhere within the labyrinth of the web. Can you track it down and identify the article linked to this image? <br>
 ![Given image](https://miro.medium.com/v2/resize:fit:620/format:webp/1*8jF_oTmu_j_eLue3u3uRXg.png)
-</center>
+
 ---
 
 ## **Solution:**
