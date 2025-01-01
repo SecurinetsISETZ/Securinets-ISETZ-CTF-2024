@@ -4,6 +4,8 @@
 > This audio file reached me under strange circumstances. Its purpose remains unclear.  
 > Can you figure out what it hides?
 
+> Author : ADX2K
+
 The challenge provides a `.wav` file that appears normal when played but contains hidden data. Your mission is to uncover the secret.
 
 ---
