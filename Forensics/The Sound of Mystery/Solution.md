@@ -13,7 +13,6 @@ The challenge provides a `.wav` file that appears normal when played but contain
 ### Step 1: Analyze the File
 The provided `.wav` file plays without any noticeable abnormalities. However, the challenge suggests there might be hidden information encoded in the audio.
 
----
 
 ### Step 2: Generate a Spectrogram
 A spectrogram visually represents the frequencies in an audio file. To investigate the `.wav` file, we can use tools like **Audacity**. For this walkthrough :
@@ -22,7 +21,7 @@ A spectrogram visually represents the frequencies in an audio file. To investiga
 2. Switch to the spectrogram view:
    - Click the arrow next to the track name and select **Spectrogram**.<br>
 <div align="center">
-  <img src="gaaaaaabes.png" alt="Spectogramme">
+  <img src="Spectogramme.png" alt="Spectogramme">
 </div><br>
 3. Finally you got the flag : 
 
