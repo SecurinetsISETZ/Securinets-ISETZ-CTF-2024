@@ -1,8 +1,10 @@
 # Task: Concealed Truth
 
 ## Description
-Something feels off about this file, as if it’s holding back a secret.  
-Can you bring its hidden contents to light ? <br><br><br>
+> Something feels off about this file, as if it’s holding back a secret.  
+> Can you bring its hidden contents to light ?
+
+<br>
 
 <div align="center">
   <img src="What_the_hell.jpg" alt="Task Image">
