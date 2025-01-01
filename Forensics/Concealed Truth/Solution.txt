@@ -18,11 +18,11 @@ Run the following command:
 ![alt stegseek What_the_hell.jpg](./Stegseek.png)
 
 Great! we got data.txt file : 
-`VTJWamRYSnBibVYwYzN0VGRETm5hREZrWlY5WVgwSkFjMlUyTkY5UU1IY3pjaUY5`
+```VTJWamRYSnBibVYwYzN0VGRETm5hREZrWlY5WVgwSkFjMlUyTkY5UU1IY3pjaUY5```
 
 Now we just need to decode that :
-`echo "VTJWamRYSnBibVYwYzN0VGRETm5hREZrWlY5WVgwSkFjMlUyTkY5UU1IY3pjaUY5" | base64 -d | base64 -d`
+```echo "VTJWamRYSnBibVYwYzN0VGRETm5hREZrWlY5WVgwSkFjMlUyTkY5UU1IY3pjaUY5" | base64 -d | base64 -d```
 
 Finally we got the flag :
-`Securinets{St3gh1de_X_B@se64_P0w3r!}`
+```Securinets{St3gh1de_X_B@se64_P0w3r!}```
 
