@@ -82,6 +82,14 @@ Run the following command:
 ```
 stegseek Gabes.jpg wordlist.txt
 ```
+<div align="center">
+  <img src="Stegseek.png" alt="Stegseek">
+</div>
 
-StegSeek will attempt each password in the wordlist until it successfully extracts the hidden data. After the process completes, the flag is revealed.
+StegSeek will attempt each password in the wordlist until it successfully extracts the hidden data. After the process completes, we got a file that contains the flag but it's encoded.
 
+Encoded Flag : ``Bnldarwncb{3u_Sv3hu1j_3c@lq@_F3_Q@u3cwj_5nhk@_5ujjjb}``
+
+### Step 5: Decoding the Flag
+
+We need to identify the Flag encryption methode so we use 
