@@ -13,7 +13,7 @@ The challenge provides a text file containing repeated lines of text. However, s
 ## Solution
 
 ### Step 1: Analyze the File
-The provided file contains repeated lines but the flag caracters are hidden between the repeated line caracter :
+The provided file contains repeated lines but the flag caracters are hidden between the repeated line caracters :<br>
 Exemple : 
 ```
 I WILL NOT BE SNEAKY
