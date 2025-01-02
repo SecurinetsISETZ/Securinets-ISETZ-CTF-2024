@@ -18,7 +18,7 @@ The provided file contains a pattern formatted for Conway’s Game of Life, a ce
 
 To solve the challenge, simply load the pattern into a Conway’s Game of Life simulator and observe the output.
 
----
+
 ### Step 2: Pattern Symbols
 The provided pattern uses the **Run Length Encoded (RLE) format**, which describes the grid for Conway’s Game of Life. Here’s a brief explanation of the symbols used:
 
