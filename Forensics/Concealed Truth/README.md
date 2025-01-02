@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="What_the_hell.jpg" alt="Task Image">
-</div><br><br>
+</div>
 
 ---
 
