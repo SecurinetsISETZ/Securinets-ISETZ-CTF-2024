@@ -13,15 +13,21 @@ The challenge provides a web request log file that contains a mix of HTTP respon
 ## Solution
 
 ### Step 1: Analyze the Log File
-The log file contains multiple HTTP requests and their respective responses, such as `404 Not Found` and `200 OK`. The flag is hidden in the `200 OK` responses.
+The log file contains multiple HTTP requests and their respective responses, such as `404 Not Found` and `200 OK`. <br>
+The flag is hidden in the `200 OK` responses.
 
 
 ### Step 2: Filter the `200 OK` Responses
 Manually inspecting the file for lines with `200 OK` can work, but automating the process is more efficient. Use the following command to filter the `200 OK` responses:
 
-```strings server.log | grep 200```<br><br>
+```strings server.log | grep 200```<br>
+<div align="center">
+  <img src="200 Respond.png" alt="200 Respond">
+</div>
 Here we go i think we got the 2 parts of the flag but they seem encoded in base64 :<br><br>
-Encoded Flag : ```U2VjdXJpbmV0c3tMMGdfRjFsM3NfNHIzXzFtcDBydDRudH0=```
+Encoded Flag : <br>
+
+``U2VjdXJpbmV0c3tMMGdfRjFsM3NfNHIzXzFtcDBydDRudH0=``
 
 ### Step 3: Decode the flag 
 ```echo "U2VjdXJpbmV0c3tMMGdfRjFsM3NfNHIzXzFtcDBydDRudH0=" | base64 -d```
