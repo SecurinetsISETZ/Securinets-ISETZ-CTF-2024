@@ -34,6 +34,9 @@ For this task, you can use the online Conway’s Game of Life simulator availabl
 2. Click on the **import** and import the file.
 3. Once the pattern is loaded, the simulator will immediately display a message.
 
+<div align="center">
+  <img src="Pattern.png" alt="Pattern">
+</div>
 
 ### Step 3: Analyze the Output
 The loaded pattern will directly render readable text, but the flag is still not found. 
@@ -42,5 +45,8 @@ Upon examining the pattern, we notice that there are two **`!`** symbols, which 
 
 After removing the extra **`!`**, the simulator processes the entire pattern, and we can finally find the flag.
 
+<div align="center">
+  <img src="Flag.jpg" alt="Flag">
+</div><br>
 
-``Securinets{D0_Y0u_Kn0w_RLE}``
+Flag: ``Securinets{D0_Y0u_Kn0w_RLE}``
