@@ -17,11 +17,16 @@ The provided `.wav` file seems ordinary, but its description hints at hidden con
 
 ### Step 2: Extract Hidden Data
 Running ``Binwalk`` on the `.wav` file reveals that it contains a hidden **JPEG** file.
-
+<br><div align="center">
+  <img src="Binwalk.png" alt="binwalk Mystery.wav">
+</div>
 To extract all embedded files, we use the `--dd` option.
 
 Run the following command:
 ```bash
 binwalk --dd=".*" hidden_trace.wav
 ```
+<div align="center">
+  <img src="ExtractData.png" alt="binwalk --dd=".*" Mystery.wav">
+</div>
 
