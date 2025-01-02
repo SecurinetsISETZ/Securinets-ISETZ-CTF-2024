@@ -42,10 +42,10 @@ exiftool hidden.jpg
 ```
 <div align="center">
   <img src="Exiftool.png" alt="Exiftool">
-</div>
+</div><br>
 
-Inspecting the metadata reveals a password hint:  
-Password Format: ``jR*S*_4*0wM``
+
+Inspecting the metadata reveals a password hint: ``jR*S*_4*0wM``
 
 This indicates the password for the next layer follows the format `jR*S*_4*0wM`, where the `*` symbols need to be replaced with characters.
 
