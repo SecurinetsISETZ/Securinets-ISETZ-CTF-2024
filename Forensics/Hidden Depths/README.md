@@ -92,4 +92,10 @@ Encoded Flag : ``Bnldarwncb{3u_Sv3hu1j_3c@lq@_F3_Q@u3cwj_5nhk@_5ujjjb}``
 
 ### Step 5: Decoding the Flag
 
-We need to identify the Flag encryption methode so we use 
+We need to identify the Flag encryption methode so we use [https://www.dcode.fr/cipher-identifier](https://www.dcode.fr/cipher-identifier).
+
+Now we know this is ``Caesar Cipher Encoding``.
+
+So we use [https://www.dcode.fr/caesar-cipher](https://www.dcode.fr/caesar-cipher) to decode the flag, And finally we find the flag.
+
+Flag : ``Securinets{3l_Jm3yl1a_3t@ch@_W3_H@l3tna_5eyb@_5laaas}``
