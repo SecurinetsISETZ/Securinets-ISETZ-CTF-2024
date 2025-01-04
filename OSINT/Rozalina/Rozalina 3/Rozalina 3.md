@@ -10,6 +10,22 @@ the team exchanges glances. the repetition of the name feels deliberate. but who
 
 ---
 
-## **Solution:**
-When I want to search for people, I will immediatly think about looking up for their facebook accounts or any other social media ccounts they own. So, I searched for "sharbatak sharbatak" to find [his account](https://www.facebook.com/profile.php?id=61570813028573). I only found one post and it was indicating that "sharbatak" is also on X (twitter) so I looked for [Mr teddy freddy](https://x.com/MrTeddy12995139) as the post mentionned and found [a post](https://x.com/chris_comesthru/status/521057138849120256) in which a unicorn was tagged as well so I checked that unicorn's account to find a post and one of its comments mentionned the game. I searched cryptic unicorn and got [the game](https://www.cryptounicorns.fun/) name.
+## **Solution**
+
+When searching for people, the first approach is often to look up their social media accounts, such as Facebook or other platforms.  
+In this challenge, I started by searching for "sharbatak sharbatak" and discovered [his Facebook account](https://www.facebook.com/profile.php?id=61570813028573).  
+
+### Step 1: Analyzing the Facebook Account  
+The account had only one post, but it provided a valuable clue: **"sharbatak"** was also active on X (formerly Twitter).  
+
+### Step 2: Searching on X  
+Following the hint, I looked for the username **MrTeddyFreddy** and found [his profile on X](https://x.com/MrTeddy12995139).  
+On this profile, I came across [a specific post](https://x.com/chris_comesthru/status/521057138849120256) where a unicorn was tagged.
+
+### Step 3: Investigating the Tagged Unicorn  
+I visited the unicorn's profile and explored its posts. One of the comments on a post referenced **a game**.  
+
+### Step 4: Finding the Game  
+Using the keyword **"cryptic unicorn"** from the comment, I conducted a search and discovered the name of the game:  
+[Crypto Unicorns](https://www.cryptounicorns.fun/).<br>
 Flag: **Securinets{crypto_unicorns}**
