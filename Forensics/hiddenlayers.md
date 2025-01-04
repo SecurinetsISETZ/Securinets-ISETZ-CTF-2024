@@ -11,7 +11,7 @@
 
 ###  Hidden Layers in an Image
 This challenge also involves a photo that contains another hidden image embedded within its hexadecimal content.
-
+![Description](Forensics/chal.png)
 #### Steps to Solve:
 1. Analyze the image file for metadata using the `exiftool` command:
    ```bash
