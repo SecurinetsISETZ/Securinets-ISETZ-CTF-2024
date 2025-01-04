@@ -20,8 +20,6 @@ This steganography task contains hidden information embedded in the provided tex
 2. Use the [Unicode Steganography Tool](https://330k.github.io/misc_tools/unicode_steganography.html) to decode the zero-width characters embedded in the text.  
 3. Paste the file content into the **Decode** section of the tool and extract the hidden message.  
 
-Here is the screenshot of the decoding process proving the hidden message extraction:  
-
-![Decoding screenshot]("C:\Users\MSI\Pictures\Screenshots\Capture d'écran 2025-01-04 183425.png")  
+ 
 
 **Flag:** `Securinets{Hidden_Text}`
