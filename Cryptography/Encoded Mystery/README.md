@@ -42,10 +42,10 @@ decode_until_flag(file_path)
 
 ```
 ### Step 3: Run the Script  
-Save the script as `decode_flag.py` and execute it with Python:  
+Save the script as `Base64Sol.py` and execute it with Python:  
 
 ```
-python3 decrypt.py
+python3 Base64Sol.py
 ```
 
 ### Step 4: Retrieve the Flag  
