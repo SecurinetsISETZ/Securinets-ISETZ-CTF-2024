@@ -29,26 +29,21 @@ We utilize the **XOR Cipher Tool** available at [XOR Decryption](https://www.dco
 2. Set the **known plaintext** to `Securinets{`.
 3. The tool identifies the **XOR key** based on the provided plaintext.
 
+<div align="center">
+  <img src="GetKey.png" alt="Get The Key">
+</div><br>
+
+Here we go, we found the key.
+
+Key: ``ILOVEXOR``
+
 ### Step 4: Decrypt the Message
 Once the **key** is determined, we use the tool to decrypt the full ciphertext by repeating the key cyclically.
+<div align="center">
+  <img src="GetFlag.png" alt="Get The Flag">
+</div>
 
 ### Step 5: Extract the Flag
-After decryption, the plaintext reveals the flag in the format:
-```
-Securinets{...}
-```
+After decryption, you get the Flag:
 
----
-
-### Final Flag
-```
-Securinets{XOR_1s_M4gic}
-```
-
----
-
-## Notes
-- XOR encryption is a simple and commonly used technique in CTF challenges.
-- Using known plaintext attacks, such as leveraging the flag format, often simplifies key recovery.
-- Tools like **dcode.fr** provide quick and effective solutions for such tasks.
-
+Flag : ``Securinets{I_R3allly_L1ke_X0R_T@5k5}``
