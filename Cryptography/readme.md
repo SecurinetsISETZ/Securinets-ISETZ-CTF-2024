@@ -1,4 +1,4 @@
-# 🔐 Cryptography Challenges - Securinets ISETZ CTF  
+# 🔐 Cryptography Challenges  
 
 Hi everyone, it's **Mohamed Adel Aiouaz** and **Gada Azizi** here! 👋  
 
